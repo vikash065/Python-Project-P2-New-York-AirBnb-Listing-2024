@@ -1,13 +1,9 @@
 ### Airbnb Listings EDA Project: New York 2024  
 
----
-
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
 
 ![](https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
-
----
 
 ## Objective
 The goal of this project is to:
@@ -15,8 +11,6 @@ The goal of this project is to:
 2. Understand **host behavior** and listing patterns.
 3. Detect potential **outliers** in prices.
 4. Provide recommendations for guests and hosts based on insights.
-
----
 
 ## Dataset
 The dataset contains **20,765 entries and 22 features**, including:
@@ -29,8 +23,6 @@ The dataset contains **20,765 entries and 22 features**, including:
 - **room_type**: Type of accommodation (e.g., entire home, private room)  
 - **reviews_per_month**: Average monthly reviews for the listing  
 - **availability_365**: Number of available days in the year  
-
----
 
 ## Steps and Workflow
 
@@ -67,7 +59,6 @@ The dataset contains **20,765 entries and 22 features**, including:
 - **Histograms and Boxplots**: To detect outliers in `price`.
 - **Bar Charts**: Displaying room types and neighborhood group distributions.
 
----
 
 ## Key Findings and Insights
 1. **Price Trends**:  
@@ -86,8 +77,6 @@ The dataset contains **20,765 entries and 22 features**, including:
 5. **Host Behavior**:  
    - Some hosts manage **multiple listings**, indicating a trend toward professional hosting.
 
----
-
 ## How to Run This Project
 1. Clone the repository:
    ```bash
@@ -102,8 +91,6 @@ The dataset contains **20,765 entries and 22 features**, including:
    jupyter notebook day23_airbnb_eda.ipynb
    ```
 
----
-
 ## Recommendations
 - **For Guests**: 
    - Look for listings with high availability and good reviews for a better experience.
@@ -113,23 +100,18 @@ The dataset contains **20,765 entries and 22 features**, including:
    - Improve **availability** and **review response rates** to attract more bookings.
    - Manage pricing effectively to compete within the borough's market.
 
----
 
 ## Future Work
 - Use **machine learning** to predict prices based on room type and location.
 - Perform **sentiment analysis** on reviews to better understand guest experiences.
 - Create an **interactive dashboard** using Plotly or Tableau for live monitoring.
 
----
 
 ## Conclusion
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
-
----
 
 ## Contact
 For any queries, feel free to reach out at:  
 - **GitHub**: https://github.com/vikash065 
 - **LinkedIn**: https://www.linkedin.com/in/vikash-choudhary-60b456255/ 
 
----
